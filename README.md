@@ -1,0 +1,2 @@
+# SudokuApp
+Projekt zaliczeniowy sudoku
